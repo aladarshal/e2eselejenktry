@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-09T21:52:45Z" name="Suite" finished-at="2018-12-09T21:53:07Z" duration-ms="21685">
+    <groups>
+    </groups>
+    <test started-at="2018-12-09T21:52:45Z" name="Test" finished-at="2018-12-09T21:53:07Z" duration-ms="21685">
+      <class name="testcases.TestCase3">
+        <test-method signature="tc1()[pri:0, instance:testcases.TestCase3@5aa9e4eb]" started-at="2018-12-09T15:52:45Z" name="tc1" finished-at="2018-12-09T15:52:53Z" duration-ms="8359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- testcases.TestCase3 -->
+      <class name="testcases.TestCase2">
+        <test-method signature="tc1()[pri:0, instance:testcases.TestCase2@217ed35e]" started-at="2018-12-09T15:53:00Z" name="tc1" finished-at="2018-12-09T15:53:07Z" duration-ms="6310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- testcases.TestCase2 -->
+      <class name="testcases.TestCase1">
+        <test-method signature="tc1()[pri:0, instance:testcases.TestCase1@682b2fa]" started-at="2018-12-09T15:52:53Z" name="tc1" finished-at="2018-12-09T15:53:00Z" duration-ms="7001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- testcases.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
